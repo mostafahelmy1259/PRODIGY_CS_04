@@ -1,0 +1,57 @@
+2025-03-09 15:31:31,932: Key f pressed
+2025-03-09 15:31:31,934: Key k pressed
+2025-03-09 15:31:31,961: Key d pressed
+2025-03-09 15:31:31,986: Key l pressed
+2025-03-09 15:31:32,039: Key f pressed
+2025-03-09 15:31:32,107: Key s pressed
+2025-03-09 15:31:32,167: Key j pressed
+2025-03-09 15:31:32,249: Key l pressed
+2025-03-09 15:31:32,320: Key k pressed
+2025-03-09 15:31:32,391: Key f pressed
+2025-03-09 15:31:32,454: Key j pressed
+2025-03-09 15:31:32,502: Key s pressed
+2025-03-09 15:31:33,249: Key ` pressed
+2025-03-09 15:31:33,638: Key f pressed
+2025-03-09 15:31:33,679: Key i pressed
+2025-03-09 15:31:33,682: Key o pressed
+2025-03-09 15:31:33,781: Key j pressed
+2025-03-09 15:31:33,852: Key o pressed
+2025-03-09 15:31:34,660: Key None pressed
+2025-03-09 15:31:34,792: Key None pressed
+2025-03-09 15:31:35,129: Key None pressed
+2025-03-09 15:31:35,475: Key 5 pressed
+2025-03-09 15:31:35,546: Key 3 pressed
+2025-03-09 15:31:35,549: Key 4 pressed
+2025-03-09 15:31:35,589: Key 0 pressed
+2025-03-09 15:31:35,610: Key 9 pressed
+2025-03-09 15:31:35,721: Key 8 pressed
+2025-03-09 15:31:35,777: Special key Key.f4 pressed
+2025-03-09 15:31:36,015: Key 4 pressed
+2025-03-09 15:31:36,639: Key 3 pressed
+2025-03-09 15:31:36,792: Key 0 pressed
+2025-03-09 15:31:36,984: Key 3 pressed
+2025-03-09 15:31:37,642: Special key Key.cmd pressed
+2025-03-09 15:31:38,326: Special key Key.cmd pressed
+2025-03-09 15:31:39,632: Special key Key.esc pressed
+2025-03-09 15:41:13,273: Key k pressed
+2025-03-09 15:41:13,275: Key l pressed
+2025-03-09 15:41:13,377: Key j pressed
+2025-03-09 15:41:13,448: Key f pressed
+2025-03-09 15:41:13,468: Key k pressed
+2025-03-09 15:41:13,570: Key d pressed
+2025-03-09 15:41:14,150: Key 4 pressed
+2025-03-09 15:41:14,302: Key 9 pressed
+2025-03-09 15:41:14,447: Key 2 pressed
+2025-03-09 15:41:14,620: Key 5 pressed
+2025-03-09 15:41:15,297: Special key Key.space pressed
+2025-03-09 15:41:15,833: Key a pressed
+2025-03-09 15:41:15,836: Key s pressed
+2025-03-09 15:41:16,458: Key e pressed
+2025-03-09 15:41:16,661: Key r pressed
+2025-03-09 15:41:16,742: Key o pressed
+2025-03-09 15:41:17,334: Key None pressed
+2025-03-09 15:41:17,742: Special key Key.up pressed
+2025-03-09 15:41:18,254: Key 4 pressed
+2025-03-09 15:41:18,470: Key 3 pressed
+2025-03-09 15:41:21,220: Special key Key.enter pressed
+2025-03-09 15:41:22,280: Special key Key.esc pressed
